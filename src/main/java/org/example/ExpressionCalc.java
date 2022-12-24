@@ -13,20 +13,6 @@ import java.util.List;
 
 public class ExpressionCalc {
 
-
-        /*------------------------------------------------------------------
-         * PARSER RULES
-         *------------------------------------------------------------------*/
-
-//    expr : plusminus* EOF ;
-//
-//    plusminus: multdiv ( ( '+' | '-' ) multdiv )* ;
-//
-//    multdiv : factor ( ( '*' | '/' ) factor )* ;
-//
-//    factor : NUMBER | '(' expr ')' ;
-
-
       /**
       * Возможные типы элементов.
        */
